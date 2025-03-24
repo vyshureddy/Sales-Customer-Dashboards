@@ -1,4 +1,5 @@
-Sales-Customer-Dashboards  
+Sales-Customer-Dashboards
+--------- This is my first Dashboard----------
  Tableau Dashboard Overview  
 This project includes two Interactive Tableau dashboards - "Sales Dashboard" and "Customer Dashboard" —to analyze sales performance and customer trends.  
  Dashboard Details:
@@ -9,7 +10,7 @@ Key Features
 •	Monthly & Weekly Trends with highest & lowest points highlighted  
 •	Sales & Profit Comparison by Product Subcategory 
 •	Customer Order Distribution & Top Customers by Profit  
-•	Interactive Filters (Category, Subcategory, Region, State, City)  
+•	Interactive Filters (Category, Subcategory, Region, State, City),  
 
 Data & Tools 
 Data Source: CSV files used in Tableau  
